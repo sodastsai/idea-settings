@@ -3,7 +3,9 @@
     <option name="REMOVED_SDKS">
       <set>
         <option value="$USER_HOME$/Code/python/django-compressor/venv/bin/python" />
+        <option value="$USER_HOME$/Desktop/ecs-test/app/venv/bin/python" />
         <option value="$USER_HOME$/Work/Tickle/tickle-server/venv/bin/python" />
+        <option value="$USER_HOME$/iCHEF/iCHEF-Cloud2.0/venv/bin/python" />
         <option value="/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/bin/python3.4" />
       </set>
     </option>

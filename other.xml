@@ -27,11 +27,13 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/.pyenv/versions/ichef-2.5/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/django-compressor/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv2/bin/python" value="false" />
         <entry key="$USER_HOME$/Work/Tickle/tickle-server/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Work/iCHEF/iCHEF-Cloud2.0/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/iCHEF/aws_lambda_tools/venv/bin/python" value="false" />
         <entry key="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
         <entry key="/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
         <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
@@ -39,11 +41,13 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="$USER_HOME$/.pyenv/versions/ichef-2.5/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/django-compressor/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv2/bin/python" value="false" />
         <entry key="$USER_HOME$/Work/Tickle/tickle-server/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Work/iCHEF/iCHEF-Cloud2.0/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/iCHEF/aws_lambda_tools/venv/bin/python" value="false" />
         <entry key="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
         <entry key="/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
         <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
@@ -51,10 +55,12 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="$USER_HOME$/.pyenv/versions/ichef-2.5/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/django-compressor/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv2/bin/python" value="false" />
         <entry key="$USER_HOME$/Work/Tickle/tickle-server/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/iCHEF/aws_lambda_tools/venv/bin/python" value="false" />
         <entry key="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
         <entry key="/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
         <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
