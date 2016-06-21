@@ -2,9 +2,18 @@
   <component name="PySdkService">
     <option name="REMOVED_SDKS">
       <set>
+        <option value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+        <option value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
         <option value="$USER_HOME$/Code/python/django-compressor/venv/bin/python" />
+        <option value="$USER_HOME$/Code/python/taskr/venv/bin/python" />
+        <option value="$USER_HOME$/Code/python/taskr/venv2/bin/python" />
+        <option value="$USER_HOME$/Desktop/copiable/venv/bin/python" />
+        <option value="$USER_HOME$/Projects/courses/SampleProjects/cwb-json-api/venv/bin/python" />
         <option value="$USER_HOME$/Work/Tickle/tickle-server/venv/bin/python" />
+        <option value="$USER_HOME$/Work/iCHEF/iCHEF-Cloud2.0/venv/bin/python" />
+        <option value="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
         <option value="/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/bin/python3.4" />
+        <option value="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
       </set>
     </option>
   </component>
