@@ -27,6 +27,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/.pyenv/versions/ichef-2.7/bin/python" value="true" />
         <entry key="$USER_HOME$/.pyenv/versions/taskr/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/django-compressor/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv/bin/python" value="false" />
@@ -40,6 +41,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="$USER_HOME$/.pyenv/versions/ichef-2.7/bin/python" value="false" />
         <entry key="$USER_HOME$/.pyenv/versions/taskr/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/django-compressor/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv/bin/python" value="false" />
@@ -53,6 +55,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="$USER_HOME$/.pyenv/versions/ichef-2.7/bin/python" value="false" />
         <entry key="$USER_HOME$/.pyenv/versions/taskr/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/django-compressor/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Code/python/taskr/venv/bin/python" value="false" />
