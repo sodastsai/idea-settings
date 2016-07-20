@@ -2,6 +2,7 @@
   <component name="PySdkService">
     <option name="REMOVED_SDKS">
       <set>
+        <option value="$USER_HOME$/.pyenv/versions/taskr/bin/python" />
         <option value="$USER_HOME$/Code/python/django-compressor/venv/bin/python" />
         <option value="$USER_HOME$/Desktop/ecs-test/app/venv/bin/python" />
         <option value="$USER_HOME$/Work/Tickle/tickle-server/venv/bin/python" />
